@@ -18,7 +18,7 @@ Use Y Key for rotating the cube around Y-axis.
 
 Use Z Key for rotating the cube around Z-axis.
 
-Use SPACE Key for arbitrary-rotating the cube around 2 cube points.
+Use SPACE Key for arbitrary-rotating the cube around 2 cube's points.
 
 How do people contact ME or ask a question?
 
